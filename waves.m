@@ -1,5 +1,5 @@
 % Damped harmonic oscillation — press the run button (▶) above.
-f = 2.5;    % frequency (Hz)
+f = 5.5;    % frequency (Hz)
 tau = 0.8;  % decay time constant (s)
 
 t = linspace(0, 3, 600);
